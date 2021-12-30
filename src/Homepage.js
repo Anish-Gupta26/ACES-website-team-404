@@ -4,7 +4,7 @@ import './App.css';
 
 const Homepage = () => {
   return (
-    <section className='showcase'>
+    <section className='showcase' id="home">
       <div className='showcase-overlay'>
           <div className='Type'>
             <Typewriter
