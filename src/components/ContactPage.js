@@ -7,7 +7,7 @@ const ContactPage = () => {
           <div className="container" data-aos="fade-up">
 
             <header className="section-header" style={{marginTop : "40px"}}>
-              <p>Contact Us</p>
+              <h1>Contact Us</h1>
             </header>
 
             <div className="row gy-4">
@@ -36,7 +36,7 @@ const ContactPage = () => {
               </div>
 
               <div className="col-lg-6">
-                <form action="forms/contact.php" method="post" className="php-email-form">
+                <form action="" method="post" className="contact-form">
                   <div className="row gy-4">
 
                     <div className="col-md-6">

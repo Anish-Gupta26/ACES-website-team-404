@@ -3,8 +3,8 @@ import React from 'react'
 function Team() {
     return (
         <>
-            <h2 className='board'>Board 2021-2022</h2>
-            <div className="container" id="team" style={{backgroundColor: "#f6f9ff"}}>
+            <h1 id="team" className='board'>Board 2021-2022</h1>
+            <div className="container" style={{backgroundColor: "#f6f9ff"}}>
                 
                 <div className="team">
                 <div className="member">

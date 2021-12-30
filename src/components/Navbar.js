@@ -3,7 +3,7 @@ import logo from '../assets/logo3.png';
 function Navbar() {
     return (
         <div>
-                <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+                <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="/">
                              <img src={logo} alt="Logo" style={{width:"40px"}} />
@@ -20,7 +20,7 @@ function Navbar() {
                                 <a className="nav-link" aria-current="page" href="#about">About</a>
                                 </li>                           
                                 <li className="nav-item">
-                                <a className="nav-link" aria-current="page" href="/">Events</a>
+                                <a className="nav-link" aria-current="page" href="#gallery">Galley</a>
                                 </li>
                                 <li className="nav-item">
                                 <a className="nav-link" href="#team">Team</a>

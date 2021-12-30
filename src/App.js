@@ -4,18 +4,16 @@ import ContactPage from './components/ContactPage';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Newsletter from './components/Newsletter';
-import Showcase from './components/Showcase';
 import Team from './components/Team';
-// import Slider from './components/Slider';
 import ImageSlider from './components/ImageSlider';
 import { SliderData } from './components/SliderData';
+import Homepage from './Homepage';
 
 function App() {
   return (
     <>
       <Navbar/>
-      <Showcase/>
-      {/* <Slider/> */}
+      <Homepage/>
        <About/>
        <Team/>
        <ImageSlider slides={SliderData} />;

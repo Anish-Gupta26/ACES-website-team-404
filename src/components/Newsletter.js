@@ -6,7 +6,7 @@ function Newsletter() {
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-lg-12 text-center">
-                            <h2>Newsletter</h2>
+                            <h1>Newsletter</h1>
                             <p>Subscribe to our newsletter & Stay updated with the upcoming events!🎉</p>
                         </div>
                         <div className="input-group mb-3 w-50 col-lg-6">

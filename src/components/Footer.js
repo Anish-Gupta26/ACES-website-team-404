@@ -8,7 +8,7 @@ function Footer() {
                       <br/> All Rights Reserved 2021
                 </div>
                 <div className="credits">
-                     Made with ❤️ by Team-404 (<a href="https://www.linkedin.com/in/anish-gupta-a28a20191/" target="_blank">Anish</a> & <a href="https://www.linkedin.com/in/mukesh-rangwani-a5a3341b7/" target="_blank">Mukesh)</a>
+                     Made with &#10084;&#65039; by Team-404 (<a href="https://www.linkedin.com/in/anish-gupta-a28a20191/" target="_blank">Anish</a> & <a href="https://www.linkedin.com/in/mukesh-rangwani-a5a3341b7/" target="_blank">Mukesh)</a>
                 </div>
             </div>
         </footer>
