@@ -6,7 +6,6 @@
 }
 
 body {
-  /* font-family: "Open Sans", sans-serif; */
   color: #444444;
 }
 
@@ -20,18 +19,16 @@ a:hover {
   text-decoration: none;
 }
 
-/* h1, h2, h3, h4, h5, h6 {
-  font-family: "Nunito", sans-serif;
-} */
+/* -----------------------
+  Homepage
+ -------------------------*/
 .showcase {
     background: url('./assets/2.jpg')
     no-repeat center/cover;
     height: 650px;
     padding: 0px;
   }
-  /* .section h1{
-    font-family: "Nunito", sans-serif;
-  } */
+
   .showcase .showcase-overlay {
     background-color: rgba(0, 0, 0, 0.6);
     display: flex;
@@ -49,7 +46,6 @@ a:hover {
   }
   @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600;700;800&display=swap');
   .Type {
-    /* font-family: "Nunito", sans-serif; */
     font-family: 'Raleway', sans-serif;
     font-weight:800;
     font-size:40px;
@@ -146,7 +142,22 @@ section {
 .social-menu ul li:nth-child(4) a:hover{
   background-color: blue;
 }
-
+/*--------------------- 
+Gallery 
+-----------------------*/
+.w-5{
+    width: 50vw;
+    align-items: center;
+    margin: 25px auto;
+    height: 70%;
+}
+.carousel .carousel-inner h1{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  color: #012970;
+  text-align: center;
+  margin-top: 30px;
+}
 /*-------------------------------------------
 The Team
 -----------------------------------------------*/
@@ -172,7 +183,7 @@ The Team
     text-align: center;
     font-family: 'Raleway', sans-serif;
 }
- img{
+ .container .team .member img{
    border-radius: 50%;
  }
  img:hover{
@@ -241,7 +252,6 @@ The Team
   background: #5a36dd;
   color: #fff;
 }
-
  
 /*--------------------------------------------------------------
 # About
@@ -297,7 +307,6 @@ h1{
 .about .btn-read-more:hover i {
   transform: translateX(5px);
 }
-
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -333,8 +342,9 @@ footer,.footer-newsletter ,.contact-form,.contact .info-box:hover {
   padding: 30px;
   height: 100%;
 }
-/* Footer */
-
+/*-----------------
+ Footer 
+ -----------------*/
 .footer .footer-top .footer-contact p {
   line-height: 26px;
 }

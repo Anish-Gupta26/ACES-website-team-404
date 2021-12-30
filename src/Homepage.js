@@ -1,6 +1,4 @@
 import React from 'react';
-  
-//importing typewriter-effect
 import Typewriter from "typewriter-effect";
 import './App.css';
 
