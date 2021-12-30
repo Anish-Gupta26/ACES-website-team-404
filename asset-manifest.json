@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/team-404/static/css/main.fa2a1dfb.css",
-    "main.js": "/team-404/static/js/main.33183004.js",
+    "main.css": "/team-404/static/css/main.e1466b3b.css",
+    "main.js": "/team-404/static/js/main.72d8874d.js",
     "static/js/787.02b2d660.chunk.js": "/team-404/static/js/787.02b2d660.chunk.js",
+    "static/media/gallery-2.jpg": "/team-404/static/media/gallery-2.31bed5cbd33e12a9343c.jpg",
     "static/media/aces_10.png": "/team-404/static/media/aces_10.f25b739ee5dea0e9e490.png",
+    "static/media/gallery-4.jpg": "/team-404/static/media/gallery-4.171d0e85f89610b4cb85.jpg",
+    "static/media/gallery-5.jpg": "/team-404/static/media/gallery-5.1c06ae67e159bd73bbba.jpg",
+    "static/media/gallery-3.jpg": "/team-404/static/media/gallery-3.9617bb21b2472e4a6cee.jpg",
     "static/media/aces_9.png": "/team-404/static/media/aces_9.7b30ce3f87abc6d18f70.png",
     "static/media/aces_5.jpg": "/team-404/static/media/aces_5.1cb6abadd28dd58ab679.jpg",
     "static/media/aces_14.jpg": "/team-404/static/media/aces_14.9224838da23f701a70bb.jpg",
     "static/media/aces_13.jpg": "/team-404/static/media/aces_13.864407c24fd86d9e3891.jpg",
     "static/media/aces_15.jpg": "/team-404/static/media/aces_15.6d837c2c21cd31c2452b.jpg",
+    "static/media/gallery-1.jpg": "/team-404/static/media/gallery-1.38c77825c9c60ac6b1ab.jpg",
     "static/media/aces_1.jpg": "/team-404/static/media/aces_1.79d8df177000fe1e71d3.jpg",
     "static/media/aces_12.jpeg": "/team-404/static/media/aces_12.e046635b2820313bad8b.jpeg",
     "static/media/aces_4.jpg": "/team-404/static/media/aces_4.0efb9202b948deee84c4.jpg",
@@ -23,12 +28,12 @@
     "static/media/aces_16.jpg": "/team-404/static/media/aces_16.d69cfd5f6df5e7c82d70.jpg",
     "static/media/logo3.png": "/team-404/static/media/logo3.e8b96afb6cf4ab560c8d.png",
     "index.html": "/team-404/index.html",
-    "main.fa2a1dfb.css.map": "/team-404/static/css/main.fa2a1dfb.css.map",
-    "main.33183004.js.map": "/team-404/static/js/main.33183004.js.map",
+    "main.e1466b3b.css.map": "/team-404/static/css/main.e1466b3b.css.map",
+    "main.72d8874d.js.map": "/team-404/static/js/main.72d8874d.js.map",
     "787.02b2d660.chunk.js.map": "/team-404/static/js/787.02b2d660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa2a1dfb.css",
-    "static/js/main.33183004.js"
+    "static/css/main.e1466b3b.css",
+    "static/js/main.72d8874d.js"
   ]
 }
