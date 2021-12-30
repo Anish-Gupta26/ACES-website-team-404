@@ -20,7 +20,7 @@ function Navbar() {
                                 <a className="nav-link" aria-current="page" href="#about">About</a>
                                 </li>                           
                                 <li className="nav-item">
-                                <a className="nav-link" aria-current="page" href="#gallery">Galley</a>
+                                <a className="nav-link" aria-current="page" href="https://technology.nirmauni.ac.in/student_work/aces/">Galley</a>
                                 </li>
                                 <li className="nav-item">
                                 <a className="nav-link" href="#team">Team</a>

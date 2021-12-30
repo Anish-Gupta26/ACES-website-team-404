@@ -5,8 +5,8 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Newsletter from './components/Newsletter';
 import Team from './components/Team';
-import ImageSlider from './components/ImageSlider';
-import { SliderData } from './components/SliderData';
+// import ImageSlider from './components/ImageSlider';
+// import { SliderData } from './components/SliderData';
 import Homepage from './Homepage';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <Homepage/>
        <About/>
        <Team/>
-       <ImageSlider slides={SliderData} />;
+       {/* <ImageSlider slides={SliderData} />; */}
        <Newsletter/>
        <ContactPage/>
        <Footer/>
