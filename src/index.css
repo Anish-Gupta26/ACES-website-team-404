@@ -22,6 +22,9 @@ a:hover {
 /* -----------------------
   Homepage
  -------------------------*/
+.navbar-brand img, .about img:hover{
+  border-radius: 50%;
+}
 .showcase {
     background: url('./assets/2.jpg')
     no-repeat center/cover;
@@ -173,8 +176,12 @@ The Team
 .container {
   margin-top: 50px;
 }
+.event h1{
+  text-align: center;
+  margin: 90px 0 20px 0;
+}
 .gallery,.board{
-    margin: 50px 0 20px 0;
+    margin: 90px 0 20px 0;
     padding: 0;
     font-size: 38px;
     line-height: 42px;
@@ -341,6 +348,16 @@ footer,.footer-newsletter ,.contact-form,.contact .info-box:hover {
   background: #fafbff;
   padding: 30px;
   height: 100%;
+}
+
+@media only screen and (max-width: 500px) {
+  .subs .em{
+    display: none;
+  }
+  .subs .input-group-append{
+    padding-left: 38px;
+  }
+  
 }
 /*-----------------
  Footer 

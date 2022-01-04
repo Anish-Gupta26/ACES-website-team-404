@@ -1,6 +1,7 @@
 import './App.css';
 import About from './components/About';
 import ContactPage from './components/ContactPage';
+import Events from './components/Events';
 import Footer from './components/Footer';
 import Gallery from './components/Gallery';
 import Navbar from './components/Navbar';
@@ -14,6 +15,7 @@ function App() {
        <Navbar/>
        <Homepage/>
        <About/>
+       <Events/>
        <Team/>
        <Gallery/>
        <Newsletter/>

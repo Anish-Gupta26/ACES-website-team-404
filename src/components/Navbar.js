@@ -18,12 +18,15 @@ function Navbar() {
                                 </li>
                                 <li className="nav-item">
                                 <a className="nav-link" aria-current="page" href="#about">About</a>
-                                </li>                           
+                                </li>      
                                 <li className="nav-item">
-                                <a className="nav-link" aria-current="page" href="#gallery">Gallery</a>
-                                </li>
+                                <a className="nav-link" aria-current="page" href="#events">Events</a>
+                                </li>                     
                                 <li className="nav-item">
                                 <a className="nav-link" href="#team">Team</a>
+                                </li>
+                                <li className="nav-item">
+                                <a className="nav-link" aria-current="page" href="#gallery">Gallery</a>
                                 </li>
                                 <li className="nav-item">
                                 <a className="nav-link" aria-current="page" href="#contact">Contact Us</a>

@@ -1,10 +1,17 @@
-import React from 'react'
+import React, {useEffect} from 'react'
+import Aos from 'aos';
+import "aos/dist/aos.css";
 import image1 from '../assets/logo2.png'
 import image2 from '../assets/logo3.png'
 function About() {
+    useEffect(() => {
+        Aos.init({
+          duration : 200
+        });
+      }, [])
     return (
         <div>
-            <section id="about" className="about">
+            <section id="about" className="about" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600">
                 <div className="container" data-aos="fade-up">
                     <div className="row gx-0">
                     <div className="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">

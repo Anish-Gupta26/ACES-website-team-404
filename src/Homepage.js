@@ -19,7 +19,7 @@ const Homepage = () => {
                 />
             </div>
             <a href='#about'>
-            <button type="button" class="btn btn-dark btn-lg">Explore &#128640;</button>
+            <button type="button" class="btn btn-dark btn-lg" data-aos="zoom-in"  data-aos-duration="1200">Explore &#128640;</button>
             </a>
         </div>
     </section>
